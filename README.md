@@ -19,5 +19,6 @@ Webpack assumed to be installed. See https://webpack.js.org/
 
 ```bash
 npm install fhir.js
+npm install webpack
 npx webpack --config webpack.config.js
 ```
