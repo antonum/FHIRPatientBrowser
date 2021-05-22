@@ -1,4 +1,4 @@
-const Fhir = require('./node_modules/fhir.js/src/adapters/native');
+const Fhir = require('fhir.js/src/adapters/native');
 var client = Fhir({
     baseUrl: 'https://fhir.cuajnpcf.static-test-account.isccloud.io',
     
