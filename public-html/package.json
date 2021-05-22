@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "webpack-cli": "^4.7.0"
-  }
+  },
+    "scripts": {
+      "build": "webpack"
+    }
 }
