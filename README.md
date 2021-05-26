@@ -8,7 +8,7 @@ var client = Fhir({
   baseUrl: 'https://XXXXXXXXX.execute-api.us-east-2.amazonaws.com/fhir',
   
   headers: {
-    'x-api-key':'EXAMPLE-API-KEY-Gv2eBhprQF96YEvmIG',
+    'x-api-key':'x5DLGbN52yaYYekXkryCW75rJUHBDMQa1ewwTGfj',
     'accept':'*/*'
   }
 ```

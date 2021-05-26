@@ -1,9 +1,9 @@
-const Fhir = require('./node_modules/fhir.js/src/adapters/native');
+const Fhir = require('fhir.js/src/adapters/native');
 var client = Fhir({
-    baseUrl: 'https://XXXXXXXXX.execute-api.us-east-2.amazonaws.com/fhir',
+    baseUrl: 'https://fhir.cuajnpcf.static-test-account.isccloud.io',
     
     headers: {
-      'x-api-key':'EXAMPLE-API-KEY-Gv2eBhprQF96YEvmIG',
+      'x-api-key':'x5DLGbN52yaYYekXkryCW75rJUHBDMQa1ewwTGfj',
       'accept':'*/*'
     }
 });
